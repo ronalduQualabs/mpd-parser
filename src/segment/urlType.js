@@ -1,5 +1,5 @@
 import resolveUrl from '@videojs/vhs-utils/es/resolve-url';
-import window from 'videojs-global-compat/window';
+import window from '@videojs/global-compat/window';
 
 /**
  * @typedef {Object} SingleUri
